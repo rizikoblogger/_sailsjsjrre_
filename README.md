@@ -1,4 +1,5 @@
 # sailsjsjrre
+## Capítulo 1 -  Instalação do Sails
 
 Uma aplicação [Sails v1](https://sailsjs.com)
 
