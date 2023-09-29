@@ -14,7 +14,7 @@ Uma aplicação [Sails v1](https://sailsjs.com)
 ### Informações desta versão
 
 Este aplicativo foi gerado originalmente em 29 de setembro de 2023, às 13:46:08 GMT-0300 (Horário Padrão de Brasília)
-utilizando o Sails v1.5.8.
+utilizando o Sails v1.5.8, npm 8.x e Node 16.x em ambiente Windows 10.
 
 <!-- Internamente, Sails utilizou o [`sails-generate@2.0.8`](https://github.com/balderdashy/sails-generate/tree/v2.0.8/lib/core-generators/new). -->
 
@@ -53,7 +53,8 @@ técnicas de aprendizado por "gamificação", de acordo com o seguinte ciclo:
 * Ações executadas pelo Pedro Brainiac;
 * Resultado obtido pelo Pedro Brainiac;
 * Perguntas dos Estagiários;
-* Resposta da pergunta dada pelo Sabido, relatando como a tecnologia Sails.js foi capaz de produzir os resultados obtidos
+* Resposta da pergunta dada pelo Sabido, relatando como a tecnologia Sails.js foi capaz de produzir os resultados
+  obtidos
 * com a execução do desafio tecnológico resolvido;
 * Ações executadas pelo Leitor;
 * Resultado obtido pelo Leitor; e
@@ -79,10 +80,10 @@ divertida.
 > POSSO UTILIZAR OUTRAS VERSÕES DO SAILS.JS?
 
 * Resposta do Supervisor:  sim, mas recomendo a versão 1.5.8, pois é a atual. Lembre-se que novas versões podem ser
-lançadas amanhã mesmo!
-
+  lançadas amanhã mesmo!
 
 > RESULTADOS
+
 * Resultado obtido por mim: [                                                                        ]
 * Pontos obtidos por mim: [     ].
 * Minha pontuação somada até agora é [     ]
@@ -90,13 +91,13 @@ lançadas amanhã mesmo!
 * Pontos obtidos pelo Pedro Brainiac: 1
 * A pontuação do outro estagiário está em: [     ]
 
-
 ### Desafio principal proposto:
 
 Desenvolver o protótipo de um Sistema de Gerenciamento de Transporte (Transportation Management System - TMS) para o
 cliente Transportador Logístico LTDA, contendo:
 
 > Gestão da Frota (Dados do Veículo)
+
 * Tipo: rodoviário, ferroviário, aéreo ou aquaviário
 * Velocidade Média Carregado
 * Velocidade Média Sem Carga
@@ -109,6 +110,7 @@ cliente Transportador Logístico LTDA, contendo:
 * Intervalo de Manutenção (Horas)
 
 > Gestão da Rota
+
 * Distâncias entre origem e destino (km);
 * tipo de estrada (pavimentação e trânsito);
 * topografia (rampa máxima e altitude);
@@ -128,7 +130,6 @@ cliente Transportador Logístico LTDA, contendo:
 * descrição da carga,
 * destino e data e hora de entrega de cada carga;
 * localização da doca de descarga
-
 
 ### Sumário Proposto:
 
@@ -211,8 +212,10 @@ cliente Transportador Logístico LTDA, contendo:
 
 ## Evoluindo nos capítulos
 
-Cada capítulo será finalizado com o Protótipo em um estágio de desenvolvimento e o capítulo seguinte conterá melhorias ou adições em relação ao anterior.
-**Desta forma**, o aluno poderá recuperar o código da versão anterior sempre que desejar recomeçar o aprendizado e/ou _clonar_ todo o código da versão final.
+Cada capítulo será finalizado com o Protótipo em um estágio de desenvolvimento e o capítulo seguinte conterá melhorias
+ou adições em relação ao anterior.
+**Desta forma**, o aluno poderá recuperar o código da versão anterior sempre que desejar recomeçar o aprendizado e/ou _
+clonar_ todo o código da versão final.
 
 - [Capítulo 1](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap1) - Instalação do Sails;
 - [Capítulo 2](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap2) - Manipulação de _Layout_ e Localidade;
@@ -220,9 +223,18 @@ Cada capítulo será finalizado com o Protótipo em um estágio de desenvolvimen
 - [Capítulo 4](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap4) - Manipulação de Dados e arquivos;
 - [Capítulo 5](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap5) - Adição de novas funcionalidades;
 - [Capítulo 6](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap6) - Customização do Protótipo;
-- [Capítulo 7](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap7) - Publicando meu Protótipo / Produto de Software;
+- [Capítulo 7](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap7) - Publicando meu Protótipo / Produto de
+  Software;
 - [Capítulo 8](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap8) - Recursos Avançados do Sails;
-- Capítulo 9 - Separando o _frontend_ do _backend_ com [Vue 3](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/vue) ou [Angular 14+](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/angular);
+- Capítulo 9 - Separando o _frontend_ do _backend_
+  com [Vue 3](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/vue)
+  ou [Angular 14+](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/angular);
 - [Capítulo 10](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/final) - Versão Final;
+
+_Observe que: a versão gerada pelo Sails Generator é dependente de plataforma, portanto, não há garantia de que a
+simples cópia
+deste código-fonte irá funcionar perfeitamente no seu computador. Recomenda-se criar um projeto com o
+comando ````sails new meu-projeto````, executar o comando ``npm install`` e só então substituir os arquivos deste
+protótipo sobre os originais._
 
 # Bom Aprendizado!
