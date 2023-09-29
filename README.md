@@ -22,8 +22,8 @@ utilizando o Sails v1.5.8, npm 8.x e Node 16.x em ambiente Windows 10.
 O modelo deste projeto é baseado em um aplicativo inicial expandido e fornecido
 pelo [Time Central do Sails](https://sailsjs.com/about)
 para facilitar a criação de recursos comuns, tais como autenticação, cadastro, verificação de e-mail e cobrança.
-Para maiores informações, entre em contato com a equipe principal do
-Sails [entre em contato](https://sailsjs.com/support) ou nosso time [RIZ | iko](https://www.riziko.com.br/contato)
+Para maiores informações, entre em contato com a [Equipe principal do
+Sails](https://sailsjs.com/support) em inglês ou, em português, com o time [RIZ | iko](https://www.riziko.com.br/contato).
 
 ## Informações do Protótipo
 
@@ -214,8 +214,8 @@ cliente Transportador Logístico LTDA, contendo:
 
 Cada capítulo será finalizado com o Protótipo em um estágio de desenvolvimento e o capítulo seguinte conterá melhorias
 ou adições em relação ao anterior.
-**Desta forma**, o aluno poderá recuperar o código da versão anterior sempre que desejar recomeçar o aprendizado e/ou _
-clonar_ todo o código da versão final.
+**Desta forma**, o aluno poderá recuperar o código da versão anterior sempre que desejar recomeçar o aprendizado e/ou
+_clonar_ todo o código da versão final.
 
 - [Capítulo 1](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap1) - Instalação do Sails;
 - [Capítulo 2](https://github.com/rizikoblogger/_sailsjsjrre_/tree/feature/cap2) - Manipulação de _Layout_ e Localidade;
