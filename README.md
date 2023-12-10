@@ -1,5 +1,5 @@
 # sailsjsjrre
-## Capítulo 1 -  Instalação do Sails
+## Capítulo 2 -  Manipulação de _Layout_ e Localidade
 
 Uma aplicação [Sails v1](https://sailsjs.com)
 
